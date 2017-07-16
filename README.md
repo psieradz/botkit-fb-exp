@@ -11,10 +11,8 @@ The solution consists of several components, namely:
 
 HOW TO MAKE FB BOT ANSWER?
 
-Unfortunately, in order to make a fb answer to anyone who starts a conversation the application itself needs to be published 
-and that involves serious amount of effort, including a preparation of a privacy policy and a dedicated host that would expose 
-it and I'm to lazy to deal with it. The workaround it to share your facebook name with me (via email, google+, github or 
-whatever your preferences are) so that I can make you an official application tester. 
+Unfortunately, in order to make a fb bot answer to anyone who starts a conversation the application itself needs to be published and that involves serious amount of effort, including a preparation of a privacy policy and a dedicated host that would exposeit and I'm to lazy to deal with it. 
+The workaround it to share your facebook name with me (via email, google+, github or whatever your preferences are) so that I can make you an official application tester. 
 
 Once you become a tester you'll just need to search for "Watson-exp" page on FB and send it a chat message.
 
