@@ -1,13 +1,14 @@
 {
   "name": "botkit-fb-exp",
   "version": "0.0.1",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
     "botkit": "^0.2.2",
+    "botkit-middleware-watson": "^1.4.0",
     "dotenv": "^2.0.0",
     "express": "^4.13.4"
   }
