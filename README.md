@@ -18,7 +18,7 @@ Once you become a tester you'll just need to search for "Watson-exp" page on FB 
 
 A WARNING:
 
-You may experience serious delays while talking to the bot, the reason being the free tiers of 3 different providers serving pieces of the solution and obviously, free tires doesn't have a very high priority for them. The worst lag I experienced took approximately 5 minutes...
+You may experience serious delays while talking to the bot, the reason being the free tiers of 3 different providers serving pieces of the solution and obviously, free tiers don't have a very high priority for them. The worst lag I experienced took approximately 5 minutes...
 
 HURRY UP!
 
