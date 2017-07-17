@@ -27,7 +27,7 @@ or even MS Bot framework using someone's free monthly 200$).
 
 NEXT STEPS:
 
-* For now the bot will only answer to several greetings and farewells, its extremely simple to customize it though;
+* For now the bot will only answer to several greetings and farewells, it's extremely simple to customize it though;
 * Slack integration (we should have a slack channel anyway);
 * Custom chat application;
 * Replacing Watson with something free;
